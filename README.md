@@ -7,3 +7,4 @@ Please Download the following for todays Class
 2.Sql server management studio
 3.http://msftdbprodsamples.codeplex.com/downloads/get/417885
 4.https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+5. https://dev.mysql.com/downloads/file/?id=468289
