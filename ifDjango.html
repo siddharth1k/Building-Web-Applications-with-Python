@@ -1,6 +1,6 @@
 <html>
    <body>
-   
+      
       Hello World!!!<p>Today is {{today}}</p>
       We are
       {% if today.day == 1 %}
@@ -13,6 +13,13 @@
       
       I don't know.
       {%endif%}
+      
+      <p>
+         {% for day in days_of_week %}
+         {{day}}
+      </p>
+		
+      {% endfor %}
       
    </body>
 </html>
